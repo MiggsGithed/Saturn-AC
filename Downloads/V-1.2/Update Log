@@ -1,0 +1,6 @@
+UPDATE LOG:
+Agora, está traduzido para português o file “Settings”
+
+Agora, você pode colocar seu USERID como moderador, que ao for pego usando comandos, como fly com HD Admin, entre outros, você não será chutado.
+
+Sistema de “Blacklist” no CharacterAdditions, agora você pode colocar para chutar o jogador APENAS se for adicionado certas coisas (como body gyro, etc) ou tudo, apenas deixando a função “All” true.
